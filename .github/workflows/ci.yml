@@ -78,4 +78,4 @@ jobs:
     steps:
       - name: Simulate deployment
         run: |
-          # Ajouter les messages nécessaires
+          echo "Simulating deployment of all services"
